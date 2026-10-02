@@ -1,0 +1,27 @@
+{
+  "name": "minecraft-the-sift-tools",
+  "version": "1.0.0",
+  "description": "Browser-based The Sift mod compatibility, local package metadata and portal helpers.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "demo": "npm run build && node scripts/serve.mjs",
+    "check": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "fixtures": "node scripts/fixtures.mjs",
+    "verify": "npm run check && npm test && npm run build"
+  },
+  "dependencies": {
+    "fflate": "0.8.3",
+    "smol-toml": "1.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.3",
+    "esbuild": "0.28.2",
+    "typescript": "6.0.3"
+  }
+}

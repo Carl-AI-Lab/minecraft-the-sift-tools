@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "dataAuthority": "minecraftthesift.com project records",
+  "adapters": [
+    "flattened database import",
+    "absolute website links",
+    "compiled Worker filename",
+    "flattened test imports"
+  ],
+  "files": [
+    {
+      "source": "src/lib/tools/compatibility-browser.ts",
+      "destination": "src/compatibility-browser.ts",
+      "sourceSha256": "feb6a512ae2fbd97ee5b42034e0a76f500b173fa3176ff108da934a372bbdf03",
+      "exportedSha256": "feb6a512ae2fbd97ee5b42034e0a76f500b173fa3176ff108da934a372bbdf03"
+    },
+    {
+      "source": "src/lib/tools/compatibility.ts",
+      "destination": "src/compatibility.ts",
+      "sourceSha256": "74c4f788692b2be630b44cbd8438671dab25f49882d973c13ed7bb4e3e5901f0",
+      "exportedSha256": "74c4f788692b2be630b44cbd8438671dab25f49882d973c13ed7bb4e3e5901f0"
+    },
+    {
+      "source": "src/lib/tools/database.ts",
+      "destination": "src/database.ts",
+      "sourceSha256": "1bb798475c5104d03ef4e7c62b8c91cb8658efcf1e24dc8b82853a92b376fd1b",
+      "exportedSha256": "912b43fef7ca2aae3d3b7b5da63adf435e368165e60735a10d439900f13aeff9"
+    },
+    {
+      "source": "src/lib/tools/dom.ts",
+      "destination": "src/dom.ts",
+      "sourceSha256": "e16b518a761d7bf51be4e19c7295e037f56ae70377608bfc07dacab9ec8292e0",
+      "exportedSha256": "4e832a8944fc87df3f8bd0ff88d961541dbb90dddb5f9fc2f735292dcdcd5c54"
+    },
+    {
+      "source": "src/lib/tools/file-browser.ts",
+      "destination": "src/file-browser.ts",
+      "sourceSha256": "13e15b91c1436bea0bc356d4206b11b2c9f8f22dd14997da5c4d3e06c17e8c4a",
+      "exportedSha256": "c7555c80b5eedc05e526b2bedb8bfa95c1cb7627bdbcacbfaa4dbf41f509cae7"
+    },
+    {
+      "source": "src/lib/tools/file-checker.ts",
+      "destination": "src/file-checker.ts",
+      "sourceSha256": "8cbd41d5271c0de0059a7c8cb19b4edd534dcace097dc5e0cbe64bd82598bbe8",
+      "exportedSha256": "8cbd41d5271c0de0059a7c8cb19b4edd534dcace097dc5e0cbe64bd82598bbe8"
+    },
+    {
+      "source": "src/lib/tools/file-worker.ts",
+      "destination": "src/file-worker.ts",
+      "sourceSha256": "2c69afa273694de82c2406cf037e2d1e5fe643c9672540904e9117ce3832903d",
+      "exportedSha256": "2c69afa273694de82c2406cf037e2d1e5fe643c9672540904e9117ce3832903d"
+    },
+    {
+      "source": "src/lib/tools/note-sequence.ts",
+      "destination": "src/note-sequence.ts",
+      "sourceSha256": "4b3efbd90026df78d6cd890345aeab869025a186b234b64703f96ffb48bcba1d",
+      "exportedSha256": "4b3efbd90026df78d6cd890345aeab869025a186b234b64703f96ffb48bcba1d"
+    },
+    {
+      "source": "src/lib/tools/note-simulator-browser.ts",
+      "destination": "src/note-simulator-browser.ts",
+      "sourceSha256": "2ed79a6a356f8bc659897f23d89795e6b32d34020a23dc745e9557001d0e9a97",
+      "exportedSha256": "2ed79a6a356f8bc659897f23d89795e6b32d34020a23dc745e9557001d0e9a97"
+    },
+    {
+      "source": "src/lib/tools/portal-browser.ts",
+      "destination": "src/portal-browser.ts",
+      "sourceSha256": "637a6a6142c27e142d0b6837d0da80e2d4dd652e5eaa3665a464b9f23075c579",
+      "exportedSha256": "637a6a6142c27e142d0b6837d0da80e2d4dd652e5eaa3665a464b9f23075c579"
+    },
+    {
+      "source": "src/lib/tools/types.ts",
+      "destination": "src/types.ts",
+      "sourceSha256": "c41c318e185816dae44d3975c372f05ebd20355c9861317362bbd2d6e1c22d79",
+      "exportedSha256": "c41c318e185816dae44d3975c372f05ebd20355c9861317362bbd2d6e1c22d79"
+    },
+    {
+      "source": "tests/tools-compatibility.test.ts",
+      "destination": "tests/tools-compatibility.test.ts",
+      "sourceSha256": "71944c053fed050f6e27d4864b0eff979db499b4953679dcb29a3a80da4d96fc",
+      "exportedSha256": "c8d33446bf53f673965c18e249ed66adba7409423c77466332c6022d87781ead"
+    },
+    {
+      "source": "tests/tools-file.test.ts",
+      "destination": "tests/tools-file.test.ts",
+      "sourceSha256": "c0c2279bd777c4c0af47fcc8f598e5a993c2c8e58c6104b181890737f737e925",
+      "exportedSha256": "d0dd5a1223c234df5891b371cd7a4704b4b361d817d32baca003a9d343df0c30"
+    },
+    {
+      "source": "tests/tools-note.test.ts",
+      "destination": "tests/tools-note.test.ts",
+      "sourceSha256": "f5393ef765d944d1acbc42f17958c4f820aba53365f39097c1f4ae6381b64bc1",
+      "exportedSha256": "552beec9f42863a3b57f7e6db6de38399f1cde85f76b268cfa05fc11210f17a3"
+    },
+    {
+      "source": "src/data/the-sift-projects.json",
+      "destination": "data/the-sift-projects.json",
+      "sourceSha256": "aa3cea596c4a4fe9bdabc06ff227c43055ee63fd8d619930f13cea1e6e1a1f52",
+      "exportedSha256": "aa3cea596c4a4fe9bdabc06ff227c43055ee63fd8d619930f13cea1e6e1a1f52"
+    }
+  ]
+}

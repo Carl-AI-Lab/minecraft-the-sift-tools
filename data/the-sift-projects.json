@@ -1,0 +1,450 @@
+[
+  {
+    "id": "mielon",
+    "name": "Mielon's The Sift",
+    "author": "Mielon",
+    "projectId": "1691925",
+    "edition": "java",
+    "projectUrl": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift",
+    "metadataIds": null,
+    "releases": [
+      {
+        "id": "9022781",
+        "minecraftVersions": [
+          "26.3"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "modVersion": "1.1.1",
+        "filename": "mielon's-the-sift-1.1.1-mc26.3-fabric.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift/files/9022781",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "Uploaded September 30, 2026. The publisher reports critical bug fixes without identifying individual fixes; branch requirements come from the author description."
+      },
+      {
+        "id": "9022764",
+        "minecraftVersions": [
+          "26.2"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "modVersion": "1.1.1",
+        "filename": "mielon's-the-sift-1.1.1-mc26.2-fabric.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift/files/9022764",
+        "dependencies": [
+          {
+            "name": "Fabric Loader",
+            "requirement": "0.19.3+",
+            "optional": false
+          },
+          {
+            "name": "Fabric API",
+            "requirement": null,
+            "optional": false
+          },
+          {
+            "name": "GeckoLib",
+            "requirement": "5.5.3+",
+            "optional": false
+          },
+          {
+            "name": "LambDynamicLights",
+            "requirement": "4.12.2+",
+            "optional": true
+          }
+        ],
+        "evidence": "file-page",
+        "notes": "Uploaded September 30, 2026. The publisher reports critical bug fixes without identifying individual fixes; branch requirements come from the author description."
+      },
+      {
+        "id": "9012005",
+        "minecraftVersions": [
+          "1.20.1"
+        ],
+        "loaders": [
+          "forge"
+        ],
+        "modVersion": "1.1.0",
+        "filename": "mielon's-the-sift-1.1.0-mc1.20.1-forge.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift/files/9012005",
+        "dependencies": [
+          {
+            "name": "Forge",
+            "requirement": "47.2.0+",
+            "optional": false
+          },
+          {
+            "name": "GeckoLib",
+            "requirement": "4.4.9+",
+            "optional": false
+          }
+        ],
+        "evidence": "file-page",
+        "notes": null
+      },
+      {
+        "id": "9011988",
+        "minecraftVersions": [
+          "26.3"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "modVersion": "1.1.0",
+        "filename": "mielon's-the-sift-1.1.0-mc26.3-fabric.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift/files/9011988",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": null
+      },
+      {
+        "id": "9011977",
+        "minecraftVersions": [
+          "26.2"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "modVersion": "1.1.0",
+        "filename": "mielon's-the-sift-1.1.0-mc26.2-fabric.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift/files/9011977",
+        "dependencies": [
+          {
+            "name": "Fabric Loader",
+            "requirement": "0.19.3+",
+            "optional": false
+          },
+          {
+            "name": "Fabric API",
+            "requirement": null,
+            "optional": false
+          },
+          {
+            "name": "GeckoLib",
+            "requirement": "5.5.3+",
+            "optional": false
+          },
+          {
+            "name": "LambDynamicLights",
+            "requirement": "4.12.2+",
+            "optional": true
+          }
+        ],
+        "evidence": "file-page",
+        "notes": null
+      },
+      {
+        "id": "9011966",
+        "minecraftVersions": [
+          "1.21.1"
+        ],
+        "loaders": [
+          "neoforge"
+        ],
+        "modVersion": "1.1.0",
+        "filename": "mielon's-the-sift-1.1.0-mc1.21.1-neo.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift/files/9011966",
+        "dependencies": [
+          {
+            "name": "NeoForge",
+            "requirement": "21.1.62+",
+            "optional": false
+          },
+          {
+            "name": "GeckoLib",
+            "requirement": "4.6.6+",
+            "optional": false
+          }
+        ],
+        "evidence": "file-page",
+        "notes": null
+      }
+    ],
+    "portal": {
+      "status": "documented",
+      "type": "Ancient City + note sequence",
+      "instructions": "Use a Goat Horn at an Ancient City, let the Singer awaken the Sonorous Deepslate, then play the tuned Note Blocks in the author’s sequence. This method applies only to Mielon’s mod.",
+      "guideUrl": "/mods/mielons-the-sift/portal/"
+    },
+    "lastVerified": "2026-10-01"
+  },
+  {
+    "id": "wellspring",
+    "name": "Wellspring",
+    "author": "SyddersLMAO",
+    "projectId": "1695433",
+    "edition": "java",
+    "projectUrl": "https://www.curseforge.com/minecraft/mc-mods/wellspring",
+    "metadataIds": null,
+    "releases": [
+      {
+        "id": "8928187",
+        "minecraftVersions": [
+          "26.1.2"
+        ],
+        "loaders": [
+          "neoforge"
+        ],
+        "modVersion": "1.1.1-alpha",
+        "filename": "wellspring-1.1.1-alpha.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/wellspring/files/8928187",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": null
+      }
+    ],
+    "portal": {
+      "status": "documented",
+      "type": "Warden key + Ancient City",
+      "instructions": "Defeat a Warden for its key, clear the central portal’s vines, then use the key on Reinforced Deepslate. The author labels this route early alpha.",
+      "guideUrl": "https://www.curseforge.com/minecraft/mc-mods/wellspring"
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "zerw",
+    "name": "The Sift: Backport",
+    "author": "Zerw",
+    "projectId": "1717363",
+    "edition": "java",
+    "projectUrl": "https://www.curseforge.com/minecraft/mc-mods/the-sift-backport-0",
+    "metadataIds": null,
+    "releases": [
+      {
+        "id": "9014781",
+        "minecraftVersions": [
+          "1.21.1"
+        ],
+        "loaders": [
+          "forge",
+          "fabric",
+          "neoforge"
+        ],
+        "modVersion": "1.0.0",
+        "filename": "TheSift-1.21.1.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/the-sift-backport-0/files/9014781",
+        "dependencies": null,
+        "evidence": "publisher-tags",
+        "notes": "The publisher tags this same file for three loaders; its binary compatibility is not independently verified."
+      },
+      {
+        "id": "9009179",
+        "minecraftVersions": [
+          "26.3"
+        ],
+        "loaders": [
+          "forge",
+          "fabric",
+          "neoforge"
+        ],
+        "modVersion": "1.0.0",
+        "filename": "TheSift-26.3.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/the-sift-backport-0/files/9009179",
+        "dependencies": null,
+        "evidence": "publisher-tags",
+        "notes": "The publisher tags this same file for three loaders; its binary compatibility is not independently verified."
+      },
+      {
+        "id": "9006347",
+        "minecraftVersions": [
+          "26.2"
+        ],
+        "loaders": [
+          "forge",
+          "fabric",
+          "neoforge"
+        ],
+        "modVersion": "1.0.0",
+        "filename": "TheSift-26.2.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/the-sift-backport-0/files/9006347",
+        "dependencies": null,
+        "evidence": "publisher-tags",
+        "notes": "The publisher tags this same file for three loaders; its binary compatibility is not independently verified."
+      }
+    ],
+    "portal": {
+      "status": "documented",
+      "type": "Command entry",
+      "instructions": "The author directs players to enter /thesift after installing the mod and opening a world. This is Zerw’s project only.",
+      "guideUrl": "https://www.curseforge.com/minecraft/mc-mods/the-sift-backport-0"
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "derexxd",
+    "name": "Sift Backport",
+    "author": "DerexXD",
+    "projectId": "1714907",
+    "edition": "java",
+    "projectUrl": "https://www.curseforge.com/minecraft/mc-mods/sift-backport",
+    "metadataIds": null,
+    "releases": [
+      {
+        "id": "9023238",
+        "minecraftVersions": [
+          "1.20.1"
+        ],
+        "loaders": [
+          "neoforge"
+        ],
+        "modVersion": "1.0.0.1",
+        "filename": "Sift-Backport-1.0.0.1-1.20.1-neoforge.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/sift-backport/files/9023238",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "Uploaded September 30, 2026; the publisher calls this an early NeoForge release."
+      },
+      {
+        "id": "9023218",
+        "minecraftVersions": [
+          "1.19.2"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "modVersion": "1.0.0.1",
+        "filename": "Sift-Backport-1.0.0.1-1.19.2-fabric.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/sift-backport/files/9023218",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "Uploaded September 30, 2026; tagged Release, but the publisher calls it experimental."
+      },
+      {
+        "id": "9016456",
+        "minecraftVersions": [
+          "1.21.1"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "modVersion": "1.0.0.0",
+        "filename": "Sift-Backport-1.0.0.0-1.21.1-fabric.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/sift-backport/files/9016456",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "Uploaded September 30, 2026; initial Fabric release. A general snapshot tag does not identify a tested snapshot build."
+      },
+      {
+        "id": "9016454",
+        "minecraftVersions": [
+          "1.20.1"
+        ],
+        "loaders": [
+          "fabric"
+        ],
+        "modVersion": "1.0.0.0",
+        "filename": "Sift-Backport-1.0.0.0-1.20.1-fabric.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/sift-backport/files/9016454",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "Uploaded September 30, 2026; initial Fabric release."
+      },
+      {
+        "id": "8995603",
+        "minecraftVersions": [
+          "1.20.1"
+        ],
+        "loaders": [
+          "neoforge"
+        ],
+        "modVersion": "1.0.0.0",
+        "filename": "Sift-Backport-1.0.0.0-1.20.1-neoforge.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/sift-backport/files/8995603",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "Uploaded September 28, 2026; the publisher describes this as the second NeoForge release."
+      },
+      {
+        "id": "8995606",
+        "minecraftVersions": [
+          "1.21.1"
+        ],
+        "loaders": [
+          "neoforge"
+        ],
+        "modVersion": "1.0.0.0",
+        "filename": "Sift-Backport-1.0.0.0-1.21.1-neoforge.jar",
+        "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/sift-backport/files/8995606",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "September 28, 2026 release; newer verified files are listed separately."
+      }
+    ],
+    "portal": {
+      "status": "documented",
+      "type": "Command entry",
+      "instructions": "After installing the matching DerexXD release, use /siftteleport in a world, as documented by this project’s author.",
+      "guideUrl": "/mods/backport/#derexxd"
+    },
+    "lastVerified": "2026-10-01"
+  },
+  {
+    "id": "trotamundos",
+    "name": "The Sift Dimension | Add-On",
+    "author": "trotamundos872",
+    "projectId": "1713398",
+    "edition": "bedrock",
+    "projectUrl": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift",
+    "metadataIds": null,
+    "releases": [
+      {
+        "id": "8992832",
+        "minecraftVersions": [
+          "26.50"
+        ],
+        "loaders": [
+          "bedrock"
+        ],
+        "modVersion": "0.3",
+        "filename": "The Sift WE 0.3 RP.mcpack",
+        "downloadUrl": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift/files/8992832",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": "Matching 0.3 Behavior Pack is also required; its independent file URL has not been verified. Open the author’s file list."
+      }
+    ],
+    "portal": {
+      "status": "documented",
+      "type": "Author’s Ancient City portal",
+      "instructions": "This Bedrock add-on describes an Ancient City route. Install the matching resource and behavior packs and follow this author’s current instructions.",
+      "guideUrl": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift"
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "korvvvik",
+    "name": "The Sift Dimension Addon",
+    "author": "Korvvvik",
+    "projectId": "1717306",
+    "edition": "bedrock",
+    "projectUrl": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift-dimension-addon",
+    "metadataIds": null,
+    "releases": [
+      {
+        "id": "9005933",
+        "minecraftVersions": [
+          "26.50"
+        ],
+        "loaders": [
+          "bedrock"
+        ],
+        "modVersion": null,
+        "filename": "the-sift-dimension-addon.mcpack",
+        "downloadUrl": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift-dimension-addon/files/9005933",
+        "dependencies": null,
+        "evidence": "file-page",
+        "notes": null
+      }
+    ],
+    "portal": {
+      "status": "unverified",
+      "type": "Author’s Ancient City portal",
+      "instructions": "The author gallery mentions an Ancient City portal, but activation steps have not been verified. Use this author’s own instructions when available.",
+      "guideUrl": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift-dimension-addon"
+    },
+    "lastVerified": "2026-09-30"
+  }
+]
